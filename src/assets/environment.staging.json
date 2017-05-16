@@ -1,0 +1,4 @@
+{
+  "production": false,
+  "some_api_url": "https://staging_url"
+}

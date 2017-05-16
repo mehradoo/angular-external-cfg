@@ -1,0 +1,4 @@
+{
+  "production": false,
+  "some_api_url": "https://prod_url"
+}
